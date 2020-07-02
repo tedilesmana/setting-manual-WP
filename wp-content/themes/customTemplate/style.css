@@ -1,0 +1,17 @@
+/*
+    Theme Name: Custom Template WooCommerce
+    Theme URI: 
+    Description: Custom Template WooCommerce (Child of Storefront)
+    Author: Juan Pablo De la torre
+    Author URI: http://easy-webdev.com
+    Template: storefront
+    Version: 1.0.0
+    License: GNU General Public License v2 or later
+    License URI: http://www.gnu.org/licenses/gpl-2.0.html
+    Tags: woocommerce,customTemplate, responsive-layout, right-sidebar, 
+    Text Domain: storefront
+*/
+
+body {
+    background: rgba(0,0,0, .05);
+}
